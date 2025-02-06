@@ -3,4 +3,6 @@
     <string name="take_photo">Take Photo</string>
     <string name="scan_product">Scan Product</string>
     <string name="stop_capture">Stop Capture</string>
+    <!-- Strings used for fragments for navigation -->
+
 </resources>
